@@ -1,0 +1,553 @@
+[
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/IBWVYSM4",
+		"type": "article-journal",
+		"container-title": "Edward Elgar Publishing. ISBN",
+		"language": "en",
+		"title": "Mis)managing Macroprudential Expectations: How Central Banks Govern Financial and Climate Tail Risks",
+		"volume": "978 1 80088 758 9",
+		"author": [
+			{
+				"family": "Morris",
+				"given": "J.H."
+			},
+			{
+				"family": "Collins",
+				"given": "H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/T52LSNTV",
+		"type": "article-journal",
+		"container-title": "Review of International Political Economy",
+		"DOI": "10.1080/09692290.2017.1320300",
+		"issue": "3",
+		"language": "en",
+		"page": "393–423",
+		"title": "The regulator’s conundrum. How market reflexivity limits fundamental financial reform",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Stellinga",
+				"given": "B."
+			},
+			{
+				"family": "Mügge",
+				"given": "D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/M6GZSDXC",
+		"type": "article-journal",
+		"container-title": "Review of International Political Economy",
+		"DOI": "10.1080/09692290.2020.1779780",
+		"issue": "6",
+		"language": "en",
+		"page": "1433–1458",
+		"title": "Measuring and mitigating systemic risks: How the forging of new alliances between central bank and academic economists legitimize the transnational macroprudential agenda",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Thiemann",
+				"given": "M."
+			},
+			{
+				"family": "Melches",
+				"given": "C.R."
+			},
+			{
+				"family": "Ibrocevic",
+				"given": "E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/MB9D8M2K",
+		"type": "article-journal",
+		"container-title": "Socio-Economic Review",
+		"DOI": "10.1093/ser/mwaa053",
+		"issue": "4",
+		"language": "en",
+		"page": "2041–2071",
+		"title": "The emergence of systemic risk: The Federal Reserve, bailouts, and monetary government at the limits",
+		"volume": "20",
+		"author": [
+			{
+				"family": "Özgöde",
+				"given": "O."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/BY77VC4U",
+		"type": "article-journal",
+		"container-title": "Business and Politics",
+		"DOI": "10.1017/bap.2019.14",
+		"issue": "1",
+		"language": "en",
+		"page": "224–251",
+		"title": "The open-endedness of macroprudential policy. Endogenous risks as an obstacle to countercyclical financial regulation",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Stellinga",
+				"given": "B."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/49KBP6RZ",
+		"type": "article-journal",
+		"container-title": "Competition & Change",
+		"DOI": "10.1177/1024529419833870",
+		"issue": "3",
+		"language": "en",
+		"page": "266–286",
+		"title": "A hard nut to crack: Regulatory failure shows how rating really works",
+		"volume": "23",
+		"author": [
+			{
+				"family": "Mennillo",
+				"given": "G."
+			},
+			{
+				"family": "Sinclair",
+				"given": "T.J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/XMZYUFRP",
+		"type": "article-journal",
+		"container-title": "Environment and Planning A: Economy and Space",
+		"DOI": "10.1177/0308518X20951809",
+		"issue": "8",
+		"language": "en",
+		"note": "publisher: SAGE Publications Ltd",
+		"page": "1471–1479",
+		"title": "Central banks: Climate governors of last resort?",
+		"volume": "52",
+		"author": [
+			{
+				"family": "P",
+				"given": "Langley"
+			},
+			{
+				"family": "JH",
+				"given": "Morris"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/XHW4RC6D",
+		"type": "article-journal",
+		"container-title": "Economy and Society",
+		"DOI": "10.1080/03085147.2022.2121066",
+		"issue": "4",
+		"language": "en",
+		"page": "559–583",
+		"title": "Uncomfortable knowledge in central banking: Economic expertise confronts the visibility dilemma",
+		"volume": "51",
+		"author": [
+			{
+				"family": "Best",
+				"given": "J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/W93CSV5H",
+		"type": "article-journal",
+		"container-title": "Economy and Society",
+		"DOI": "10.1080/03085140410001677120",
+		"issue": "2",
+		"language": "en",
+		"note": "publisher-place: Routledge",
+		"page": "197–217",
+		"title": "Repoliticizing financial risk",
+		"volume": "33",
+		"author": [
+			{
+				"family": "M",
+				"given": "Goede"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/35BXTB5Y",
+		"type": "article-journal",
+		"container-title": "Economy and Society",
+		"DOI": "10.1080/03085147.2011.616145",
+		"issue": "3",
+		"language": "en",
+		"note": "publisher-place: Routledge",
+		"page": "418–434",
+		"title": "On the performative power of financial models",
+		"volume": "41",
+		"author": [
+			{
+				"family": "Svetlova",
+				"given": "E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/DJI3JZQA",
+		"type": "article-journal",
+		"container-title": "Economy and Society",
+		"DOI": "10.1080/03085147.2022.2118450",
+		"issue": "4",
+		"language": "en",
+		"note": "publisher-place: Routledge",
+		"page": "535–558",
+		"title": "Recentering central banks: Theorizing state-economy boundaries as central bank effects",
+		"volume": "51",
+		"author": [
+			{
+				"family": "N",
+				"given": "Coombs"
+			},
+			{
+				"family": "M",
+				"given": "Thiemann"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/QNTXC8VT",
+		"type": "article-journal",
+		"container-title": "Review of International Political Economy",
+		"DOI": "10.1080/09692290.2023.2171470",
+		"language": "en",
+		"page": "1–23",
+		"title": "The ‘climate shift’ in central banks: how field arbitrageurs paved the way for climate stress testing",
+		"author": [
+			{
+				"family": "Quorning",
+				"given": "S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/Q4M2D4TF",
+		"type": "article-journal",
+		"container-title": "Review of International Political Economy",
+		"DOI": "10.1080/09692290.2014.957233",
+		"issue": "4",
+		"language": "en",
+		"title": "Predicting the unpredictable: Value-at-risk, performativity, and the politics of financial uncertainty",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Lockwood",
+				"given": "E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/U4DPQTM6",
+		"type": "article-journal",
+		"container-title": "Review of International Political Economy",
+		"DOI": "10.1080/09692290.2018.1459780",
+		"issue": "3",
+		"language": "en",
+		"note": "publisher-place: Routledge",
+		"page": "293–316",
+		"title": "Macroprudential regimes and the politics of social purpose",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Baker",
+				"given": "A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/RN86ZSNH",
+		"type": "article-journal",
+		"container-title": "New Political Economy",
+		"DOI": "10.1080/13563467.2022.2067838",
+		"issue": "1",
+		"language": "en",
+		"title": "Making financial sense of the future’: actuaries and the management of climate-related financial risk",
+		"volume": "28",
+		"author": [
+			{
+				"family": "Taylor",
+				"given": "N."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/8MQB3HNM",
+		"type": "article-journal",
+		"container-title": "New Political Economy",
+		"DOI": "10.1080/13563467.2018.1545754",
+		"issue": "6",
+		"language": "en",
+		"note": "publisher-place: Routledge",
+		"page": "816–832",
+		"title": "The Global Governance of Systemic Risk: How Measurement Practices Tame Macroprudential Politics",
+		"volume": "24",
+		"author": [
+			{
+				"family": "M",
+				"given": "Kranke"
+			},
+			{
+				"family": "D",
+				"given": "Yarrow"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/BQ4KMRM3",
+		"type": "article-journal",
+		"container-title": "Socio-Economic Review",
+		"DOI": "10.1093/ser/mwad060",
+		"language": "en",
+		"title": "Economics as intervention: Expert struggles over quantitative easing at the Bank of England",
+		"volume": "mwad060",
+		"author": [
+			{
+				"family": "Cassar",
+				"given": "D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/KMSX6XWP",
+		"type": "article-journal",
+		"container-title": "Finance and Society",
+		"DOI": "10.2218/finsoc.v5i1.3016",
+		"issue": "1",
+		"language": "en",
+		"note": "publisher: Cambridge University Press & Assessment",
+		"page": "20–41",
+		"title": "Why performativity limits credit rating reform",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Stellinga",
+				"given": "B."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/A3QHXFFC",
+		"type": "article-journal",
+		"container-title": "Journal of Cultural Economy",
+		"DOI": "10.1080/17530350.2021.1921829",
+		"issue": "1",
+		"language": "en",
+		"note": "publisher-place: Routledge",
+		"page": "14–29",
+		"title": "Forward guidance and the semiotic turn of the European Central Bank",
+		"volume": "15",
+		"author": [
+			{
+				"family": "A",
+				"given": "Abreu"
+			},
+			{
+				"family": "DS",
+				"given": "Lopes"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/IBC5TQAL",
+		"type": "article-journal",
+		"container-title": "Journal of European Public Policy",
+		"DOI": "10.1080/13501763.2022.2093948",
+		"issue": "8",
+		"language": "en",
+		"title": "An unexpected climate activist: central banks and the politics of the climate-neutral economy",
+		"volume": "30",
+		"author": [
+			{
+				"family": "Siderius",
+				"given": "K."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/8MCN6BI4",
+		"type": "document",
+		"language": "en",
+		"title": "Beunza under review. For a performative sociology of climate risk",
+		"author": [
+			{
+				"literal": "Taeger"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/local/ZRIGwmp5/items/SHIRNMAH",
+		"type": "article-journal",
+		"container-title": "The British Journal of Politics and International Relations. SAGE Publications",
+		"DOI": "10.1177/13691481231189382",
+		"language": "en",
+		"title": "Facilitating the transition to net zero’ and institutional change in the Bank of England: Perceptions of the environmental mandate and its policy implications within the British state",
+		"volume": "13691481231189382",
+		"author": [
+			{
+				"family": "J",
+				"given": "Jackson"
+			},
+			{
+				"family": "D",
+				"given": "Bailey"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	}
+]
