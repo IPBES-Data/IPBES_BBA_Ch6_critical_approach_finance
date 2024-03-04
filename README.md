@@ -52,8 +52,8 @@ snowball search (PBES_BBA_Ch6_Fin_snowball) as well as a search term based searc
 ## Status
 
 - [x] Project created
-- [ ] Initial Snowball search conducted
-- [ ] supplement references with ISBNs (Klaudia)
+- [x] Initial Snowball search conducted
+- [ ] waiting for feedback from Klaudia
 
 ## Reports
 
