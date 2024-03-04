@@ -1,8 +1,12 @@
 # Literature search Chapter 6 Finance Section
 
 [![DOI](https://zenodo.org/badge/DOI/9999999999.svg)](https://doi.org/9999999999)
-[![GitHub release](https://img.shields.io/github/release/IPBES-Data/IPBES_BBA_Ch6_fin.svg)](https://github.com/IPBES-Data/IPBES_BBA_Ch6_fin/releases/latest)
-[![GitHub commits since latest release](https://img.shields.io/github/commits-since/IPBES-Data/IPBES_BBA_Ch6_fin/latest)](https://github.com/IPBES-Data/IPBES_BBA_Ch6_fin/commits/main)
+[![GitHub release](https://img.shields.io/github/release/IPBES-Data/IPBES_BBA_Ch6_critical_approach_finance
+.svg)](<https://github.com/IPBES-Data/IPBES_BBA_Ch6_critical_approach_finance>
+/releases/latest)
+[![GitHub commits since latest release](https://img.shields.io/github/commits-since/IPBES-Data/IPBES_BBA_Ch6_critical_approach_finance
+/latest)](<https://github.com/IPBES-Data/IPBES_BBA_Ch6_critical_approach_finance>
+/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository is part of an ongoing IPBES project.
@@ -26,7 +30,8 @@ Once finalised, the final repo will be published on Zenodo
 - **Context**: Critical approaches to financial regulators and central banks
 - **Task(s)**: Conduct literature search for Chapter 6 Finance Section. At the moment, a
 snowball search (PBES_BBA_Ch6_Fin_snowball) as well as a search term based search
-( IPBES_BBA_Ch6_Fin_keyword) is planned.
+( IPBES_BBA_Ch6_critical_approach_finance
+_keyword) is planned.
 - **Contact point from the expert team**:
   - [Klaudia Prodani](mailto:k.prodani@utwente.nl)
 - **Contact point from BBA tsu**:
@@ -38,7 +43,8 @@ snowball search (PBES_BBA_Ch6_Fin_snowball) as well as a search term based searc
 - **Timeline and deadline**:
 - **Latest status**: Ongoing
 
-- **Github Repo**: [IPBES_BBA_Ch6_fin](https://github.com/IPBES-Data/IPBES_BBA_Ch6_critical_approach_finance)
+- **Github Repo**: [IPBES_BBA_Ch6_critical_approach_finance
+](https://github.com/IPBES-Data/IPBES_BBA_Ch6_critical_approach_finance)
 
 ## Folders
 
@@ -59,4 +65,5 @@ snowball search (PBES_BBA_Ch6_Fin_snowball) as well as a search term based searc
 
 - [Snowball Report](Report.html)
 
-<!-- - [Keyword Report](IPBES_BBA_Ch6_Fin_keyword.html) -->
+<!-- - [Keyword Report](IPBES_BBA_Ch6_critical_approach_finance
+_keyword.html) -->
