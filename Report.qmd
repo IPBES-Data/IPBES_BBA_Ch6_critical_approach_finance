@@ -86,7 +86,7 @@ Literature search for BBA Chapter 6 Finance Section
 
 ## Code repo
 
-[IPBES_BBA_Ch6_fin](https://github.com/IPBES-Data/IPBES_BBA_Ch6_fin)
+[IPBES_BBA_Ch6_critical_approach_finance](https://github.com/IPBES-Data/IPBES_BBA_Ch6_critical_approach_finance)
 
 ## Version `r rmarkdown::metadata$version` Build No `r build`
 
